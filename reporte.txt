@@ -1,0 +1,2 @@
+=== REPORTE DE ESTUDIANTES ===
+Estudiante{cedula='V12345678', nombre='JUAN', apellido='Pérez', semestre=3, materias=[Programación III, Bases de Datos, Redes]}
